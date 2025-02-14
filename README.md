@@ -40,7 +40,7 @@ install.packages(c("devtools", "mvtnorm", "ggplot2"))
 ### Installation depuis les sources
 ```r
 # Installation depuis le dossier source local
-install.packages("chemin/vers/le/dossier/du/package", repos = NULL, type = "source")
+install.packages("chemin/vers/le/dossier/du/MelangeGaussien_0.1.0.tar.gz", repos = NULL, type = "source")
 ```
 
 ### 🚀 Utilisation rapide
