@@ -14,7 +14,7 @@
 Implementation d'un package R fonctionnel pour les modèles de mélanges gaussiens, avec un focus sur la robustesse numérique et la flexibilité des structures de covariance. L'estimation des paramètres est réalisée via l'algorithme EM (Expectation-Maximization).
 
 ## ✨ Caractéristiques principales
-Quatre hypothèses de covariance supportées pour une flexibilité maximale :
+Quatre hypothèses de covariance supportées :
 - Full 
 - Tied
 - Diagonal 
